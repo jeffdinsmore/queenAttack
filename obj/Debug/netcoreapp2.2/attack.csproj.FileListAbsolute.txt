@@ -1,0 +1,11 @@
+/Users/jeffdinsmore/Desktop/Epicodus/CSharp/queenAttack/obj/Debug/netcoreapp2.2/attack.csprojAssemblyReference.cache
+/Users/jeffdinsmore/Desktop/Epicodus/CSharp/queenAttack/obj/Debug/netcoreapp2.2/attack.csproj.CoreCompileInputs.cache
+/Users/jeffdinsmore/Desktop/Epicodus/CSharp/queenAttack/obj/Debug/netcoreapp2.2/attack.AssemblyInfoInputs.cache
+/Users/jeffdinsmore/Desktop/Epicodus/CSharp/queenAttack/obj/Debug/netcoreapp2.2/attack.AssemblyInfo.cs
+/Users/jeffdinsmore/Desktop/Epicodus/CSharp/queenAttack/bin/Debug/netcoreapp2.2/attack.deps.json
+/Users/jeffdinsmore/Desktop/Epicodus/CSharp/queenAttack/bin/Debug/netcoreapp2.2/attack.runtimeconfig.json
+/Users/jeffdinsmore/Desktop/Epicodus/CSharp/queenAttack/bin/Debug/netcoreapp2.2/attack.runtimeconfig.dev.json
+/Users/jeffdinsmore/Desktop/Epicodus/CSharp/queenAttack/bin/Debug/netcoreapp2.2/attack.dll
+/Users/jeffdinsmore/Desktop/Epicodus/CSharp/queenAttack/bin/Debug/netcoreapp2.2/attack.pdb
+/Users/jeffdinsmore/Desktop/Epicodus/CSharp/queenAttack/obj/Debug/netcoreapp2.2/attack.dll
+/Users/jeffdinsmore/Desktop/Epicodus/CSharp/queenAttack/obj/Debug/netcoreapp2.2/attack.pdb
